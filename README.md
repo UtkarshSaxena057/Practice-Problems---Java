@@ -1,6 +1,6 @@
 ## DSA Practice Problems Java
 
-| Problem Name | Problem Solution | Topic | Companies Asked In |
+| Problem Name | Video Solution | Topic | Companies Asked In |
 | ------------ | ---------------- | ----- | ------------------ |
 | [Maximum Sum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://study.prepfortech.in/courses/practice-problems-java/lessons/practice-problems-java/topic/maximum-sum-subarray-java-implementation) | Arrays | Amazon,Google,Uber,facebook,Yahoo,Apple,Bloomberg,Microsoft |
 | [Jump Game](https://leetcode.com/problems/jump-game) | [Solution](https://study.prepfortech.in/courses/practice-problems-java/lessons/practice-problems-java/topic/jump-game-java-implementation) | Arrays | Amazon,FAcebook,Apple,Oracle,Walmart Global Tech,Google,DoorDash,ByteDance,Flipkart,Docusign	 |
